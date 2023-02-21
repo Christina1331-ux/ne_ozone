@@ -2,7 +2,7 @@
 
 ### Диаграмма базы данных
 
-<img src="C:\Users\ACER\AppData\Local\GitHubDesktop\ne_ozone\basic\web\uploads\db.png">
+![Image alt](https://github.com/Christina1331-ux/ne_ozone/blob/main/basic/web/uploads/db.png)
 
 ### Описание проекта
 
